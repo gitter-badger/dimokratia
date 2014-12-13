@@ -1,4 +1,4 @@
-package dimokratia;
+package org.ygs.dimokratia.conf;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
