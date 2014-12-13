@@ -1,7 +1,8 @@
-package org.ygs.dimokratia.conf;
+package org.ygs.dimokratia;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;
+import org.ygs.dimokratia.Application;
 
 public class ServletInitializer extends SpringBootServletInitializer {
 
